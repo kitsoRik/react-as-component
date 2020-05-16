@@ -16,6 +16,6 @@ Example button, which can be link
 import AsComponent from 'react-as-component';
 
 function MyButton({ asLink = false,  value = "" }) {
-  return <AsComponent as={asLink ? 'a' : 'button'}>Hello {name}</AsComponent>;
+  return <AsComponent as={asLink ? 'a' : 'button'}>{value}</AsComponent>;
 }
 ```
