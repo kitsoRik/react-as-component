@@ -1,0 +1,18 @@
+{
+  "name": "react-as-component",
+  "version": "1.0.2",
+  "description": "Create a component with custom selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "author": "Pidburachynskyi Rostyslav",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
