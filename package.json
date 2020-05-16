@@ -1,6 +1,6 @@
 {
   "name": "react-as-component",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Create a component with custom selector",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1"
+  },
+  "homepage": "https://github.com/kitsoRik/react-as-component",
+  "bugs": {
+    "url": "https://github.com/kitsoRik/react-as-component/issues"
   }
 }
