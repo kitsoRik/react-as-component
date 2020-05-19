@@ -1,6 +1,6 @@
 {
   "name": "react-as-component",
-  "version": "1.0.6",
+  "version": "1.0.2",
   "description": "Create a component with custom selector",
   "main": "index.js",
   "scripts": {
